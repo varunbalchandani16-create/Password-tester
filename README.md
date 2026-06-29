@@ -55,8 +55,7 @@ The application will automatically open in your default web browser at http://lo
 🌐 Live Demo
 
 The application is deployed on Streamlit Community Cloud.
-Play with the live app here: https://password-checker-demo.streamlit.app
-(Note: Update this URL to match your exact Streamlit Cloud link if it is different)
+Play with the live app here: https://password-tester-varun-balchandani.streamlit.app
 
 🎓 Project Context
 
